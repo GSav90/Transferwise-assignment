@@ -93,3 +93,8 @@ https://towardsdatascience.com/practical-implementation-of-outlier-detection-in-
 https://towardsdatascience.com/detecting-and-treating-outliers-in-python-part-1-4ece5098b755 
 ML based: https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
 
+### Plotly 101
+https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
+https://kanoki.org/2019/12/31/how-to-create-interactive-data-visualization-using-plotly/
+https://www.geeksforgeeks.org/python-plotly-tutorial/
+https://towardsdatascience.com/choropleth-maps-101-using-plotly-5daf85e7275d
